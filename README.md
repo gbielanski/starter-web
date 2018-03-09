@@ -4,7 +4,7 @@ This repository is for showing how to use Git and GitHub together
 
 ## Introduction
 
-Sample website with plenty of files for demos
+This is example is to show different parts of the Git repository and various commands using web project.
 
 ## Purpose
 
